@@ -10,7 +10,7 @@ import { addToWatchlist, addToWatched, removeFromWatched, removeFromWatchlist } 
 
 const MovieCard = (movie) => {
 
-     const {id, title, poster_path, vote_average} = movie;
+     const {id, title, poster_img, rating} = movie;
 
     const dispatch = useDispatch();
 
@@ -32,9 +32,9 @@ const MovieCard = (movie) => {
     return (
         <Col className="gutter-row position-relative overflow-hidden movie-div" xs={12} sm={8} md={6} lg={4}>
             
-                <img src={poster_path} alt="" className="img-fluid rounded-top bg-dark" />
+                <img src={poster_img} alt="" className="img-fluid rounded-top bg-dark" />
                 
-            <p className='movie-rating shadow-sm'>{vote_average}</p>
+            <p className='movie-rating shadow-sm'>{rating}</p>
             <div className='movie-info rounded-bottom shadow-sm overflow-hidden position-relative'>
                 <p className='movie-title m-0'>{title}</p>
                 

@@ -1,108 +1,108 @@
 [
         {
             "id": 337404,
-            "vote_average": 8.7,
+            "rating": 8.7,
             "vote_count": 247,
-            "poster_path": "https://ik.imagekit.io/hoichoi/svf/wp-content/uploads/2019/06/bengali-movie.jpg",
+            "poster_img": "https://ik.imagekit.io/hoichoi/svf/wp-content/uploads/2019/06/bengali-movie.jpg",
             "title": "বিবাহ অভিযান",
             "popularity": 1135.658,
             "media_type": "movie"
         },
         {
             "id": 665544,
-            "vote_average": 8.3,
+            "rating": 8.3,
             "vote_count": 247,
-            "poster_path": "https://upload.wikimedia.org/wikipedia/en/5/5d/Dohon_film_poster.jpeg",
+            "poster_img": "https://upload.wikimedia.org/wikipedia/en/5/5d/Dohon_film_poster.jpeg",
             "title": "দহন",
             "popularity": 1135.658,
             "media_type": "movie"
         },
         {
             "id": 554466,
-            "vote_average": 7.7,
+            "rating": 7.7,
             "vote_count": 247,
-            "poster_path": "https://www.indiablooms.com/showbiz_pic/2018/Villan-1535468806.jpg",
+            "poster_img": "https://www.indiablooms.com/showbiz_pic/2018/Villan-1535468806.jpg",
             "title": "ভিলেন",
             "popularity": 1135.658,
             "media_type": "movie"
         },
         {
             "id": 445522,
-            "vote_average": 6.5,
+            "rating": 6.5,
             "vote_count": 247,
-            "poster_path": "https://m.media-amazon.com/images/M/MV5BODQ3ODZhZjUtMGE2Yi00Zjk3LWIwYjUtOTM0Njk5Y2E0ZGFlXkEyXkFqcGdeQXVyNjA3OTI5MjA@._V1_.jpg",
+            "poster_img": "https://m.media-amazon.com/images/M/MV5BODQ3ODZhZjUtMGE2Yi00Zjk3LWIwYjUtOTM0Njk5Y2E0ZGFlXkEyXkFqcGdeQXVyNjA3OTI5MjA@._V1_.jpg",
             "title": "প্রজাপতি",
             "popularity": 1135.658,
             "media_type": "movie"
         },
         {
             "id": 787878,
-            "vote_average": 8.3,
+            "rating": 8.3,
             "vote_count": 247,
-            "poster_path": "https://media-cache.cinematerial.com/p/500x/cm8asjqm/dhaka-attack-indian-movie-poster.jpg?v=1514924658",
+            "poster_img": "https://media-cache.cinematerial.com/p/500x/cm8asjqm/dhaka-attack-indian-movie-poster.jpg?v=1514924658",
             "title": "ঢাকা এ্যাটাক",
             "popularity": 1135.658,
             "media_type": "movie"
         },
         {
             "id": 575757,
-            "vote_average": 9.2,
+            "rating": 9.2,
             "vote_count": 247,
-            "poster_path": "https://m.media-amazon.com/images/M/MV5BM2RmY2NlMTMtNWJlZS00NDU1LTllYTgtZjU2OTAxNmUxODAyXkEyXkFqcGdeQXVyNzk0Njk3MDc@._V1_.jpg",
+            "poster_img": "https://m.media-amazon.com/images/M/MV5BM2RmY2NlMTMtNWJlZS00NDU1LTllYTgtZjU2OTAxNmUxODAyXkEyXkFqcGdeQXVyNzk0Njk3MDc@._V1_.jpg",
             "title": "মিশন এক্সট্রিম",
             "popularity": 1135.658,
             "media_type": "movie"
         },
         {
             "id": 434343,
-            "vote_average": 7.5,
+            "rating": 7.5,
             "vote_count": 247,
-            "poster_path": "https://upload.wikimedia.org/wikipedia/en/f/f7/Power_%282016_film%29.jpg",
+            "poster_img": "https://upload.wikimedia.org/wikipedia/en/f/f7/Power_%282016_film%29.jpg",
             "title": "পাওয়ার",
             "popularity": 1135.658,
             "media_type": "movie"
         },
         {
             "id": 252525,
-            "vote_average": 8.6,
+            "rating": 8.6,
             "vote_count": 247,
-            "poster_path": "https://i1.wp.com/bestoftheyear.in/wp-content/uploads/2018/10/gangster.jpg?fit=400%2C600&ssl=1",
+            "poster_img": "https://i1.wp.com/bestoftheyear.in/wp-content/uploads/2018/10/gangster.jpg?fit=400%2C600&ssl=1",
             "title": "গ্যাংস্টার",
             "popularity": 1135.658,
             "media_type": "movie"
         },
         {
             "id": 353535,
-            "vote_average": 7.3,
+            "rating": 7.3,
             "vote_count": 247,
-            "poster_path": "https://upload.wikimedia.org/wikipedia/en/c/c8/Shaan_%282020%29_theatrical_release_poster.jpg",
+            "poster_img": "https://upload.wikimedia.org/wikipedia/en/c/c8/Shaan_%282020%29_theatrical_release_poster.jpg",
             "title": "শান",
             "popularity": 1135.658,
             "media_type": "movie"
         },
         {
             "id": 565645,
-            "vote_average": 8.9,
+            "rating": 8.9,
             "vote_count": 247,
-            "poster_path": "https://m.media-amazon.com/images/M/MV5BZDEyYzBlNjMtY2ViZC00Y2E0LWFjMmItMDJmYzM4MDMyNGEwXkEyXkFqcGdeQXVyODc0ODEwODk@._V1_.jpg",
+            "poster_img": "https://m.media-amazon.com/images/M/MV5BZDEyYzBlNjMtY2ViZC00Y2E0LWFjMmItMDJmYzM4MDMyNGEwXkEyXkFqcGdeQXVyODc0ODEwODk@._V1_.jpg",
             "title": "ডিকশনারি",
             "popularity": 1135.658,
             "media_type": "movie"
         },
         {
             "id": 114455,
-            "vote_average": 8.1,
+            "rating": 8.1,
             "vote_count": 247,
-            "poster_path": "https://m.media-amazon.com/images/M/MV5BN2MyYjAzYTktMmIwNi00NDA3LWIzMDItNjI5ZmI3NGEwYzk1XkEyXkFqcGdeQXVyOTQxNjY4OTc@._V1_.jpg",
+            "poster_img": "https://m.media-amazon.com/images/M/MV5BN2MyYjAzYTktMmIwNi00NDA3LWIzMDItNjI5ZmI3NGEwYzk1XkEyXkFqcGdeQXVyOTQxNjY4OTc@._V1_.jpg",
             "title": "পাসওয়ার্ড",
             "popularity": 1135.658,
             "media_type": "movie"
         },
         {
             "id": 225522,
-            "vote_average": 6.6,
+            "rating": 6.6,
             "vote_count": 247,
-            "poster_path": "https://m.media-amazon.com/images/M/MV5BNGNhZWY5MDctMzk4ZC00MGY3LTlhNzAtNzZjMTJhMTI5NzMzXkEyXkFqcGdeQXVyODM0ODQ5NDM@._V1_.jpg",
+            "poster_img": "https://m.media-amazon.com/images/M/MV5BNGNhZWY5MDctMzk4ZC00MGY3LTlhNzAtNzZjMTJhMTI5NzMzXkEyXkFqcGdeQXVyODM0ODQ5NDM@._V1_.jpg",
             "title": "বাদশা",
             "popularity": 1135.658,
             "media_type": "movie"
