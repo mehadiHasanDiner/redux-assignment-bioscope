@@ -2,7 +2,7 @@
     transition: all .5s ease-in-out;
     &:hover{
         .movie-title{
-            transform: translateY(-250%);
+            transform: translateX(-250%);
         }
         .add-to-list-btn{
             transform: translateY(0);
@@ -43,7 +43,7 @@
 
     position: absolute;
     top: .5em;
-    transform: translateY(250%);
+    transform: translateX(250%);
     transition: all .5s ease-in-out;
 
     &:hover{

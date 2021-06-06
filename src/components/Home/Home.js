@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import Navbar from '../Shared/Navbar/Navbar';
 import MovieData from '../MovieData/MovieData';
 
